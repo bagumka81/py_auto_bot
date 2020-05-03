@@ -83,7 +83,7 @@ repository.
 Authors
 -------
 
-Vadim - Initial work - PurpleBooth
+Vadim - Initial work
 
 See also the [list of
 contributors](https://github.com/bagumka81/py_auto_bot/contributors) who
