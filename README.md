@@ -1,6 +1,8 @@
 py_auto_bot
 ===========
 
+WARNING: Nobody was interested in this project - it's halted 
+
 Getting Started
 ---------------
 
